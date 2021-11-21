@@ -110,7 +110,6 @@ PKGS_ARCH_DEFAULT=(
 'gufw' # manage netfilter firewall
 
 #...MAIN TOOLS...
-'cmatrix' # matrix screen
 'cronie' # schedule tasks/jobs
 'htop' # see running processes
 'dmidecode' # see system technical specs
@@ -119,7 +118,6 @@ PKGS_ARCH_DEFAULT=(
 'neofetch' # displays information about your computer
 'openssh' # remote login another system with the SSH protocol
 'os-prober' # detect other OSes on a set of drives (for grub)
-'vim' # a famous text editor...hard for newbies
 'wget' # get files from web
 'git' # get files from web, think github or gitlab
 'bash-completion' # programmable completion for the bash shell
@@ -161,14 +159,9 @@ PKGS_ARCH_DEFAULT=(
 'kitty' # terminal
 'celluloid' # video players
 'code' # Visual Studio code
-'gimp' # Photo editing
-'jdk-openjdk' # Java 17
-'lutris' # gaming platform
+'dotnet-sdk' # .NET SDK
 'okular' # pdf viewer
 'qemu' # a hypervisor (virtual machines)
-'steam' # games
-'gamemode' # gaming optimizations
-'synergy' # share kebyard and mouse amung systems
 'virt-manager' # another hypervisor (create virtual machines)
 'virt-viewer' # another hypervisor (view virtual machines)
 'wine-gecko' # Wine's built-in replacement for Microsoft's Internet Explorer...(also installs wine)
