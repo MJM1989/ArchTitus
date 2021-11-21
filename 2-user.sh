@@ -46,12 +46,8 @@ PKGS_AUR_CORE=(
 )
 
 PKGS_AUR_DEFAULT=(
-'brave-bin' # Brave Browser
+'firefox'
 'dxvk-bin' # DXVK DirectX to Vulcan
-'github-desktop-bin' # Github Desktop sync
-'mangohud' # Gaming FPS Counter
-'mangohud-common' #installs with mangohud
-'zoom' # video conferences
 'snap-pac' # btrfs tools...runs snapshot after every pacman install
 'snapper-gui-git' # a tool of managing snapshots of Btrfs subvolumes and LVM volumes
 )
